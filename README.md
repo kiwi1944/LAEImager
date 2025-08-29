@@ -1,6 +1,6 @@
 # Learned Off-Grid Imager for Low-Altitude Economy with Cooperative ISAC Network (LAEImager)
 
-This is the codes for the paper "**Learned Off-Grid Imager for Low-Altitude Economy with Cooperative ISAC Network**" in *IEEE Transactions on Communications*. Its conference version has been presented in VTC2025-Spring, Oslo, Norway, June 2025.
+This is the codes for the paper "**Learned Off-Grid Imager for Low-Altitude Economy with Cooperative ISAC Network**" in *IEEE Transactions on Wireless Communications*. Its conference version has been presented in VTC2025-Spring, Oslo, Norway, June 2025.
 Arxiv link: https://arxiv.org/abs/2506.07799
 
 This paper realizes low-altitude surveillance by employing hybrid model and data knowledge.
@@ -31,7 +31,8 @@ Note: To run Python codes, a dataset in `.mat` format should be first generated 
   title={Learned Off-Grid Imager for Low-Altitude Economy with Cooperative {ISAC} Network},
   author={Huang, Yixuan and Yang, Jie and Xia, Shuqiang and Wen, Chao-Kai and Jin, Shi},
   journal={IEEE Trans. Wireless Commun.},
-  year={early access, Aug. 2025}
+  year={early access, Aug. 2025},
+  publisher={IEEE}
 }
 
 @inproceedings{huang2025cooperative,
