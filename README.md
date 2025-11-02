@@ -21,7 +21,7 @@ MATLAB: Run `main.m`
 
 Python: Run `train.py` and `pred.py` for training and testing
 
-Note: To run Python codes, a dataset in `.mat` format should be first generated based on the MATLAB codes. Potential modifications of the MATLAB codes are needed for specfic dataset generation requirements. The dataset must include *input data*, which is calculated by multiplicating Hermitian transpose of the sensing matrix and CSI measurement vector and named by 'data_herm_image' in `dataloader` at `./Pythpn/utils.py`, and *output data*, which is the ground truth image and named by 'data_true_image' in `dataloader` at `./Pythpn/utils.py`. For more information, refer to the related papers.
+Note: To run Python codes, a dataset in `.mat` format should be first generated based on the MATLAB codes. Potential modifications of the MATLAB codes are needed for specfic dataset generation requirements. The dataset must include *input data*, which is calculated by multiplicating Hermitian transpose of the sensing matrix and CSI measurement vector and named by 'data_herm_image' in `dataloader` at `./Python/utils.py`, and *output data*, which is the ground truth image and named by 'data_true_image' in `dataloader` at `./Python/utils.py`. For more information, refer to the related papers.
 
 # Citation
 
