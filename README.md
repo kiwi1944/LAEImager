@@ -31,7 +31,9 @@ Note: To run Python codes, a dataset in `.mat` format should be first generated 
   title={Learned Off-Grid Imager for Low-Altitude Economy with Cooperative {ISAC} Network},
   author={Huang, Yixuan and Yang, Jie and Xia, Shuqiang and Wen, Chao-Kai and Jin, Shi},
   journal={IEEE Trans. Wireless Commun.},
-  year={early access, Aug. 2025},
+  volume={25},
+  pages={3333--3348},
+  year={Jan. 2026},
   publisher={IEEE}
 }
 
